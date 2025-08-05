@@ -37,7 +37,7 @@ c19f36f713034d47267c58447e18f0f557dde07de725db988450af73aafbd702
 define('VERSION', '2.4.0');
 
 //Application Title
-define('APP_TITLE', 'Tiny File Manager');
+define('APP_TITLE', 'FILES');
 
 // --- EDIT BELOW CONFIGURATION CAREFULLY ---
 
